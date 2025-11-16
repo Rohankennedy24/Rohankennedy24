@@ -1,52 +1,90 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=32&pause=1000&duration=3000&color=4ADE80&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rohan+Kennedy.;Java+Developer+%7C+Web+Developer+%7C+AI+Enthusiast+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=32&pause=1000&duration=3000&color=4ADE80&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rohan+Kennedy.;AI%2FML+Enthusiast+%7C+Java+Developer+%7C+Web+Developer+%F0%9F%92%BB" alt="Typing SVG: Hi, I'm Rohan Kennedy. AI/ML Enthusiast | Java Developer | Web Developer 💻" />
 </h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=Rohankennedy24&color=blueviolet)
-
-## 🔨 <span style="font-family:'Segoe UI', sans-serif; font-weight:bold;">What I'm Currently Working On</span>
-- 💻 <span style="font-family:'Roboto Slab', serif;">Full Stack Internship Projects</span> using HTML, CSS and JavaScript
-
-## 🏅 <span style="font-family:'Segoe UI', sans-serif; font-weight:bold;">Certifications and Achievements</span>
-- 📊 BCG Data Science Job Simulation – Forage
-- 🧠 BCG GenAI Job Simulation – Forage
-- ☁️ AWS Solution Architecture Job Simulation – Forage
-- 🔤 Basic Java Programming – Computer Software Research Institution
-- 🌐 FRONT END FUSION – Datanerdz AI
-
-## 🌍 <span style="font-family:'Courier New', monospace;">Open Source Contributions</span>
-- 🧩 Created custom Arduino firmware for fault detection hardware system
-
-## 🔥 <span style="font-family:'Verdana', sans-serif; font-weight:bold;">GitHub Activity</span>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohankennedy24&theme=merko&hide_border=true&area=true&custom_title=Rohan+Kennedy's+Contribution+Graph" />
+  <a href="https://rohankennedy24.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Link" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Rohankennedy24&color=blueviolet" alt="Profile Views" />
 </p>
 
-## 💡 <span style="font-family:'Georgia', serif;">Favorite Quote</span>
-> "Push yourself, because no one else is going to do it for you."
+---
 
-## 🏅 <span style="font-family:'Trebuchet MS', sans-serif;">Coding Challenges</span>
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=RK_AI_ENGINEER)
+## 🧠 AI/ML Focus & About Me
 
-## 📄 <span style="font-family:'Lucida Console', monospace;">View My Resume</span>
-[Resume PDF](https://drive.google.com/file/d/1txLT8iQiUNPiIxRtjg4yh41cYo7iV_Sf/view?usp=sharing)
+As a prospective student in AI and Machine Learning, I possess a strong foundation built on hands-on project experience, from IoT-based fault detection systems to advanced threat detection using Machine Learning. I am a proactive learner, excellent team collaborator, and committed to continuous innovation, always seeking opportunities to leverage technology to solve real-world problems.
 
-## 🌟 <span style="font-family:'Cambria', serif;">Key Projects</span>
-### ⚡ Transformer Fault Detection System
-An Arduino-powered fault detection system for isolating transformer faults using IR sensors and relay modules.
-- **Technologies**: Arduino, Embedded C, Relay Module, IR Sensors
-- **Features**: Detects fault and isolates faulty section without affecting previous ones
-- **GitHub**: [Link](https://github.com/Rohankennedy24/Transformer-Fault-Detection)
+* **Core Focus:** AI/Machine Learning, Java Development, and Full-Stack Web Technologies.
+* **Proactive Learning:** Continuously building expertise through virtual job simulations and workshops (BCG X, AWS, Tata).
+* **Soft Skills:** Teamwork, Leadership, Adaptability, Problem Solving, and Communication.
 
-## 🛠 <span style="font-family:'Arial Black', sans-serif;">Tech Stack</span>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-## 💬 <span style="font-family:'Palatino Linotype', serif;">Testimonials</span>
-- "Rohan is a curious and hands-on learner with strong commitment to tech and teamwork." – Peer
+## 💻 Technical Toolkit
 
-## 📚 <span style="font-family:'Gill Sans', sans-serif;">Currently Learning</span>
-- BootStrap, SpringBoot
+I am a passionate developer skilled in programming languages and front-end technologies that help me build dynamic and efficient systems.
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **AI/ML** | Isolation Forest, SHAP, Machine Learning Concepts |
+| **Embedded/IoT** | Arduino UNO, Embedded Systems |
+
+---
+
+## ⚡ Featured Projects
+
+### 1. AI-Powered Insider Threat Detection (ML/Security)
+* **Description:** A real-time threat monitoring and behavior analysis system using **Isolation Forest** to detect abnormal user behavior and generate alerts with **SHAP explanation** for transparency.
+* **Tech Stack:** Isolation Forest, SHAP, Machine Learning, Python.
+* **GitHub:** [Link](https://github.com/Rohankennedy24/YOUR_INSIDER_THREAT_REPO) *(Please update this link)*
+
+### 2. IoT Fault Detection System (Embedded/Hardware)
+* **Description:** An Arduino UNO-based system designed to provide immediate fault isolation for current-carrying wires in transformers using IR Sensors and a 4-Relay Module.
+* **Tech Stack:** Arduino UNO, IoT, Embedded Systems, C++.
+* **GitHub:** [Link](https://github.com/Rohankennedy24/Transformer-Fault-Detection)
+
+### 3. Food Ordering System (Web/SPA)
+* **Description:** A clean, modern web development project showcasing a robust front-end architecture built entirely with HTML, CSS, and pure JavaScript, adopting a dynamic Single-Page Application (SPA) structure.
+* **Tech Stack:** HTML5, CSS3, JavaScript (SPA).
+* **GitHub:** [Link](https://github.com/Rohankennedy24/YOUR_FOOD_ORDERING_REPO) *(Please update this link)*
+
+---
+
+## 🏅 Certifications & Professional Experience
+
+### 💼 Virtual Job Simulations & Internships
+| Program | Role/Focus | Issuing Body |
+| :--- | :--- | :--- |
+| **Tata** GenAI Powered Data Analytics | Data Analysis & Generative AI | Forage |
+| **AWS** Solutions Architecture | Cloud Architecture Design | Forage |
+| **BCG X** Data Science & GenAI | Data Analysis & ML Pipelines | Forage |
+| **EDU TANTR** | Full Stack Development Internship | EDU TANTR |
+
+### 🎓 Academic & Technical Achievements
+* **AWS Academy** Machine Learning Foundations
+* **UiPath** RPA Design and Development v4.0
+* **Microsoft** Introduction to AI / Machine Learning Concepts
+* **OfficeMaster** Microsoft Excel Using AI Workshop (Jul 2025)
+* Basic Java Programming
+* FRONT END FUSION (Datanerdz AI)
+
+---
+
+## 🔥 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohankennedy24&theme=merko&hide_border=true&area=true&custom_title=Rohan+Kennedy's+Contribution+Graph" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=RK_AI_ENGINEER" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🔗 Connect
+* **Visit Portfolio:** [rohankennedy24.github.io/Portfolio/](https://rohankennedy24.github.io/Portfolio/)
