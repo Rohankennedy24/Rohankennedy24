@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=32&pause=1000&duration=3000&color=4ADE80&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rohan+Kennedy.;AI%2FML+Enthusiast+%7C+Java+Developer+%7C+Web+Developer+%F0%9F%92%BB" alt="Typing SVG: Hi, I'm Rohan Kennedy. AI/ML Enthusiast | Java Developer | Web Developer 💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=32&pause=1000&duration=3000&color=4ADE80&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rohan+Kennedy.;AI%2FML+Enthusiast+%7C+Java+Developer+%7C+Web+Developer+%F0%9F%92%BB" alt="Typing SVG: Hi, I'm Rohan Kennedy. AI/ML Enthusiast | Aspiring Full Stack Developer | Data Analyst  💻" />
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@ I am a passionate developer skilled in programming languages and front-end techn
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **AI/ML** | Isolation Forest, SHAP, Machine Learning Concepts |
