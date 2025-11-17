@@ -11,6 +11,8 @@
 
 ---
 
+<div style="font-family: Garamond, serif;">
+
 ## 🧠 AI/ML Focus & About Me
 
 As a prospective student in AI and Machine Learning, I possess a strong foundation built on hands-on project experience, from IoT-based fault detection systems to advanced threat detection using Machine Learning. I am a proactive learner, excellent team collaborator, and committed to continuous innovation, always seeking opportunities to leverage technology to solve real-world problems.
@@ -19,20 +21,47 @@ As a prospective student in AI and Machine Learning, I possess a strong foundati
 * **Proactive Learning:** Continuously building expertise through virtual job simulations and workshops (BCG X, AWS, Tata).
 * **Soft Skills:** Teamwork, Leadership, Adaptability, Problem Solving, and Communication.
 
+</div>
+
 ---
+
+<div style="font-family: Garamond, serif;">
 
 ## 💻 Technical Toolkit
 
 I am a passionate developer skilled in programming languages and front-end technologies that help me build dynamic and efficient systems.
 
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **AI/ML** | Isolation Forest, SHAP, Machine Learning Concepts |
-| **Embedded/IoT** | Arduino UNO, Embedded Systems |
+---
 
+### 💻 Programming Skills
+<p>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</p>
+
+### 🌐 Web Development
+<p>
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</p>
+
+### 🗄️ Database
+<p>
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
+
+### 🧠 AI/ML
+<p>
+  **Isolation Forest** | **SHAP** | **Machine Learning Concepts**
+</p>
+
+### 🤖 Embedded/IoT
+<p>
+  **Arduino UNO** | **Embedded Systems**
+</p>
+
+</div>
 ---
 
 ## ⚡ Featured Projects
@@ -54,6 +83,8 @@ I am a passionate developer skilled in programming languages and front-end techn
 
 ---
 
+<div style="font-family: Garamond, serif;">
+
 ## 🏅 Certifications & Professional Experience
 
 ### 💼 Virtual Job Simulations & Internships
@@ -72,8 +103,9 @@ I am a passionate developer skilled in programming languages and front-end techn
 * Basic Java Programming
 * FRONT END FUSION (Datanerdz AI)
 
----
+</div>
 
+---
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
