@@ -42,15 +42,10 @@ I am a passionate developer skilled in programming languages and front-end techn
 * **Tech Stack:** Isolation Forest, SHAP, Machine Learning, Python.
 * **GitHub:** [Link](https://github.com/Rohankennedy24/AI-Powered-Insider-Threat-Detection-System) 
 
-### 2. IoT Fault Detection System (Embedded/Hardware)
-* **Description:** An Arduino UNO-based system designed to provide immediate fault isolation for current-carrying wires in transformers using IR Sensors and a 4-Relay Module.
-* **Tech Stack:** Arduino UNO, IoT, Embedded Systems, C++.
-* **GitHub:** [Link](https://github.com/Rohankennedy24/Transformer-Fault-Detection)
-
-### 3. Food Ordering System (Web/SPA)
+### 2. Food Ordering System (Web/SPA)
 * **Description:** A clean, modern web development project showcasing a robust front-end architecture built entirely with HTML, CSS, and pure JavaScript, adopting a dynamic Single-Page Application (SPA) structure.
 * **Tech Stack:** HTML5, CSS3, JavaScript (SPA).
-* **GitHub:** [Link](https://github.com/Rohankennedy24/YOUR_FOOD_ORDERING_REPO) *(Please update this link)*
+* **GitHub:** [Link]([https://github.com/Rohankennedy24/YOUR_FOOD_ORDERING_REPO](https://github.com/Rohankennedy24/FooDDay-Online-Food-Ordering-System)) 
 
 ---
 
