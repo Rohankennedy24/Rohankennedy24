@@ -40,7 +40,7 @@ I am a passionate developer skilled in programming languages and front-end techn
 ### 1. AI-Powered Insider Threat Detection (ML/Security)
 * **Description:** A real-time threat monitoring and behavior analysis system using **Isolation Forest** to detect abnormal user behavior and generate alerts with **SHAP explanation** for transparency.
 * **Tech Stack:** Isolation Forest, SHAP, Machine Learning, Python.
-* **GitHub:** [Link](https://github.com/Rohankennedy24/YOUR_INSIDER_THREAT_REPO) *(Please update this link)*
+* **GitHub:** [Link](https://github.com/Rohankennedy24/AI-Powered-Insider-Threat-Detection-System) 
 
 ### 2. IoT Fault Detection System (Embedded/Hardware)
 * **Description:** An Arduino UNO-based system designed to provide immediate fault isolation for current-carrying wires in transformers using IR Sensors and a 4-Relay Module.
