@@ -112,29 +112,6 @@ The system applies the **Isolation Forest** anomaly detection algorithm to ident
 - Cybersecurity Analytics
 - Behavioural Analysis
 
-### 🧠 AI Pipeline
-
-```text
-User Activity Logs
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Behaviour Analysis
-        │
-        ▼
-Isolation Forest
-        │
-        ▼
-Anomaly Detection
-        │
-        ▼
-SHAP Explanation
-        │
-        ▼
-Threat Alert
-
 ## 💳 02 — Intelligent Credit Card Customer Segmentation
 
 <p align="center">
@@ -158,29 +135,6 @@ The objective is to discover behavioural patterns among credit card customers an
 - Data Exploration
 - Cluster Analysis
 
-### 🧠 ML Pipeline
-
-```text
-Customer Financial Data
-          │
-          ▼
-     Data Cleaning
-          │
-          ▼
-   Feature Engineering
-          │
-          ▼
-    Exploratory Analysis
-          │
-          ▼
-     K-Means Model
-          │
-          ▼
-   Customer Clusters
-          │
-          ▼
- Behavioural Insights
-
 ## 📈 03 — AI Powered Stock Price Prediction
 
 <p align="center">
@@ -203,31 +157,6 @@ The project explores an ensemble-style approach using **Random Forest and LSTM m
 - News Sentiment Analysis
 - Ensemble Prediction
 - Financial Data Analytics
-
-### 🧠 Prediction Pipeline
-
-```text
-Historical Market Data
-          │
-          ├───────────────┐
-          │               │
-          ▼               ▼
-   Random Forest         LSTM
-          │               │
-          └───────┬───────┘
-                  │
-                  ▼
-         Model Predictions
-                  │
-                  +
-                  │
-          News Sentiment
-                  │
-                  ▼
-       Combined Analysis
-                  │
-                  ▼
-        Prediction Output
 
 ## 🍔 04 — FooDDay Online Food Ordering System
 
@@ -253,31 +182,6 @@ The project focuses on creating a responsive and user-friendly experience where 
 - Single Page Application Concepts
 - Front-End Development
 
-### 🌐 Application Flow
-
-```text
-                    ┌──────────────┐
-                    │    USER      │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    Browse Menu
-                           │
-                           ▼
-                    Select Food
-                           │
-                           ▼
-                      Add Cart
-                           │
-                           ▼
-                   Review Order
-                           │
-                           ▼
-                   Place Order
-                           │
-                           ▼
-                    Order Flow
-
 # 🧪 Current Project — SHIELD-MAS
 
 <p align="center">
@@ -287,67 +191,11 @@ The project focuses on creating a responsive and user-friendly experience where 
   <img src="https://img.shields.io/badge/Self--Healing-System-22C55E?style=for-the-badge"/>
 </p>
 
-### 🛡️ SHIELD-MAS — Self-Healing Multi-Agent AI System
+### 🛡️ 05 - SHIELD-MAS — Self-Healing Multi-Agent AI System
 
 An ongoing research-oriented project focused on improving the **reliability and trustworthiness of Multi-Agent AI systems**.
 
 The system aims to identify the agent responsible for an incorrect or hallucinated response, repair the problematic agent, and resume the workflow without unnecessarily restarting the complete execution.
-
-### 🧠 Proposed Architecture
-
-```text
-                    USER INPUT
-                        │
-                        ▼
-               ┌─────────────────┐
-               │ RETRIEVER AGENT │
-               └────────┬────────┘
-                        ▼
-                ┌───────────────┐
-                │ PLANNER AGENT │
-                └───────┬───────┘
-                        ▼
-               ┌────────────────┐
-               │ REASONER AGENT │
-               └───────┬────────┘
-                       ▼
-                ┌─────────────┐
-                │ TOOL AGENT  │
-                └──────┬──────┘
-                       ▼
-              ┌────────────────┐
-              │ SUMMARIZER     │
-              └───────┬────────┘
-                      ▼
-               FINAL RESPONSE
-                      │
-                      ▼
-          ┌──────────────────────┐
-          │ HALLUCINATION CHECK  │
-          └──────────┬───────────┘
-                     │
-               Problem Found?
-                  /       \
-                NO         YES
-                │           │
-                ▼           ▼
-             OUTPUT   PROVENANCE ANALYSIS
-                            │
-                            ▼
-                     SUSPECTED AGENT
-                            │
-                            ▼
-                   COUNTERFACTUAL
-                       REPLAY
-                            │
-                            ▼
-                    AGENT REPAIR
-                            │
-                            ▼
-                    RESUME WORKFLOW
-                            │
-                            ▼
-                     VERIFIED OUTPUT
 
 # 💼 Experience & Professional Development
 
