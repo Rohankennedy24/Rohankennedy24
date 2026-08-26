@@ -204,7 +204,6 @@ The system aims to identify the agent responsible for an incorrect or hallucinat
 | 💻 **EDU TANTR Internship** | Full-Stack Development |
 | 🤖 **CORIZO Internship** | Machine Learning |
 | 🧠 **BCG X Virtual Experience** | Data Science & Generative AI |
-| 📊 **Tata GenAI Virtual Experience** | Data Analytics & Generative AI |
 | ☁️ **AWS Academy** | Machine Learning / Cloud Foundations |
 
 # 🏆 Certifications & Learning
@@ -223,13 +222,13 @@ The system aims to identify the agent responsible for an incorrect or hallucinat
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Rohankennedy24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github.com/Rohankennedy24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohankennedy24&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github.com/Rohankennedy24&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
     alt="Top Languages"
   />
@@ -239,7 +238,7 @@ The system aims to identify the agent responsible for an incorrect or hallucinat
 <p align="center">
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Rohankennedy24&theme=tokyonight&hide_border=true"
+    src="https://github.com/Rohankennedy24&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 
@@ -250,7 +249,7 @@ The system aims to identify the agent responsible for an incorrect or hallucinat
 <p align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rohankennedy24&theme=tokyo-night&hide_border=true&area=true&custom_title=Rohan%20Kennedy%27s%20Contribution%20Graph"
+    src="https://github.com/Rohankennedy24&theme=tokyo-night&hide_border=true&area=true&custom_title=Rohan%20Kennedy%27s%20Contribution%20Graph"
     width="100%"
     alt="Rohan Kennedy's GitHub Contribution Graph"
   />
