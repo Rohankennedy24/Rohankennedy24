@@ -223,7 +223,7 @@ The system aims to identify the agent responsible for an incorrect or hallucinat
 - 💻 **Basic Java Programming**
 - 📈 **Microsoft Excel Using AI Workshop**
 - 🌐 **Front End Fusion** — Datanerdz AI
-- 
+  
 <p align="center">
   <strong>Favorite Quote:"Push yourself, because no one else is going to do it for you."</strong>
 </p>
