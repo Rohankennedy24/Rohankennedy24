@@ -217,63 +217,15 @@ The system aims to identify the agent responsible for an incorrect or hallucinat
 - 📈 **Microsoft Excel Using AI Workshop**
 - 🌐 **Front End Fusion** — Datanerdz AI
 
-# 📊 GitHub Analytics
-
+  
+# My Portfolio
 <p align="center">
-
-  <img
-    src="https://github.com/Rohankennedy24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github.com/Rohankennedy24&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://github.com/Rohankennedy24&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</p>
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-  <img
-    src="https://github.com/Rohankennedy24&theme=tokyo-night&hide_border=true&area=true&custom_title=Rohan%20Kennedy%27s%20Contribution%20Graph"
-    width="100%"
-    alt="Rohan Kennedy's GitHub Contribution Graph"
-  />
-
-</p>
-
-# 🧩 Problem Solving
-
-<p align="center">
-
-  <a href="https://leetcode.com/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode - Problem Solving"
-    />
-  </a>
-
-  <a href="https://github.com/Rohankennedy24">
-    <img
-      src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github"
-      alt="GitHub - Open Source"
-    />
-  </a>
-
+    <a href="https://rohankennedy24.github.io/Portfolio/">
+      <img
+        src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel"
+        alt="Portfolio - Explore"
+      />
+    </a>
 </p>
 
 # 📫 Connect With Me
@@ -287,12 +239,6 @@ The system aims to identify the agent responsible for an incorrect or hallucinat
     />
   </a>
 
-  <a href="https://rohankennedy24.github.io/Portfolio/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel"
-      alt="Portfolio - Explore"
-    />
-  </a>
 
   <a href="https://www.linkedin.com/">
     <img
