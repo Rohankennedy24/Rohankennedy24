@@ -15,7 +15,14 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Rohankennedy24&label=PROFILE+VIEWS&color=4ADE80&style=for-the-badge" />
 </p>
-
+<p align="center">
+ <a href="https://www.linkedin.com/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
+      alt="LinkedIn - Connect"
+    />
+  </a>
+</p>
 <p align="center">
   <strong>Artificial Intelligence & Machine Learning</strong><br>
   Building intelligent systems that turn data into decisions.
@@ -217,34 +224,4 @@ The system aims to identify the agent responsible for an incorrect or hallucinat
 - 📈 **Microsoft Excel Using AI Workshop**
 - 🌐 **Front End Fusion** — Datanerdz AI
 
-  
-# My Portfolio
-<p align="center">
-    <a href="https://rohankennedy24.github.io/Portfolio/">
-      <img
-        src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel"
-        alt="Portfolio - Explore"
-      />
-    </a>
-</p>
-
-# 📫 Connect With Me
-
-<p align="center">
-
-  <a href="https://github.com/Rohankennedy24">
-    <img
-      src="https://img.shields.io/badge/GitHub-Rohan%20Kennedy-181717?style=for-the-badge&logo=github"
-      alt="GitHub - Rohan Kennedy"
-    />
-  </a>
-
-
-  <a href="https://www.linkedin.com/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
-      alt="LinkedIn - Connect"
-    />
-  </a>
-
-</p>
+  * **Favorite Quote:** *"Push yourself, because no one else is going to do it for you."*
